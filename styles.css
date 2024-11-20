@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.holder{
+	grid-template-columns:200px 2*2;
+}
+.item-1{
+	background-color:red;
+}
+.item-2{
+	background-color:yellow;
+}
+.item-3{
+	background-color:green;
+}
+.item-4{
+	background-color:blue;
+}
