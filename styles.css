@@ -1,8 +1,9 @@
 
 /* Your CSS Code here. */
 .holder{
-	grid-template-columns:200px 2*2;
-	backround color:
+	grid-template-columns:200px 20px 20px;
+	background-color:aqua;
+	display:grid;
 }
 .item-1{
 	background-color:red;
